@@ -1,3 +1,4 @@
+# VŨ ĐĂNG KHOA - 22010357
 # PROJECT: WEBSITE BUILD OF WORDPRESS ON AWS
 
 Trong dự án này, tôi sẽ trình bày cách triển khai một trang web động trên AWS bằng kiến trúc tham chiếu dự án LampStack.
